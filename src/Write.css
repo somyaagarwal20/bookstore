@@ -1,0 +1,23 @@
+.create{
+    height: 235px !important;
+    width: 200px !important;
+    background-color: #e9d9e6;
+    position: fixed;
+}
+
+.write_content span{
+    color: #525252;
+    font-weight: 500;
+    font-size: 15px;
+   
+   
+}
+#write{
+    background:#c4aac5 ;
+    border-radius: 5px;
+    width: 70px !important;
+    margin-top: 3.5px;
+    margin-left: -20px;
+    height: 18px;
+    
+}

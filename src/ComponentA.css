@@ -1,0 +1,223 @@
+.we_are_bookworm {
+    height: 210vh;
+    width: 100%;
+    background: #d7c4d8;
+
+}
+
+.bookworm {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/736x/8f/57/fb/8f57fb71836af442f86d1affd2fecc52.jpg);
+}
+
+.content {
+
+    width: 400px;
+    height: 550px;
+
+
+
+    margin-left: 100px;
+    margin-top: 00px;
+    border: 2px solid #c4a7c6;
+
+
+}
+
+.content span {
+
+    font-size: 50px;
+    font-weight: 700;
+    color: #a176a4;
+
+}
+
+#worm {
+
+    margin-top: 150px;
+
+
+}
+
+#id {
+    margin-top: -300px;
+}
+
+#world {
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 0.1rem;
+    color: #757575;
+    margin-top: 7px;
+}
+
+#global {
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 0.1rem;
+    color: #757575;
+    margin-top: 13px;
+}
+
+.buttons {
+    height: 50px;
+    width: 100%;
+    display: flex;
+
+    margin-top: 28px;
+}
+
+.button_1 button {
+    height: 35px;
+    width: 130px;
+    margin-left: 0px;
+    background: #a077a3;
+    border-radius: 5px;
+    border: none;
+}
+
+.button_2 button {
+    height: 35px;
+    width: 130px;
+    margin-left: 20px;
+    background: #a077a3;
+    border-radius: 5px;
+    border: none;
+}
+
+.content1 {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.contenta {
+    height: 100%;
+    width: 50%;
+
+}
+
+.laptom_img {
+    height: 220px;
+    width: 65%;
+
+    background-repeat: no-repeat;
+    margin-left: 120px;
+    margin-top: 200px;
+    background: #c4a7c6;
+
+}
+
+.laptom_img img {
+    height: 100%;
+    width: 100%;
+    mix-blend-mode: multiply;
+
+
+
+}
+
+.booksheleves {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    margin-top: -10px;
+    
+   
+}
+
+.your_voice {
+    height: 100px;
+    width: 300px;
+    
+    display: flex;
+    margin-top: 100px;
+    margin-left: 230px;
+}
+
+.head {
+    height: 100%;
+    width: 50%;
+    
+}
+
+.head span {
+    color: #a176a4;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+.loggo {
+    height: 100%;
+    width: 50%;
+    
+}
+
+#logooo {
+    margin-top: -40px;
+    margin-right: 70px;
+    margin-left: -50px;
+    height: 120px;
+    width: 90;
+}
+
+.hiii {
+    height: 70vh;
+    width: 50%;
+    margin-bottom: -300px;
+    margin-left: 80px;
+   
+    margin-top: 100px;
+}
+
+.belongs {
+    height: 60px;
+    width: 550px;
+   
+
+}
+
+.belongs span {
+    font-size: 25px;
+    color: black;
+    margin-top: 10px;
+    font-weight: 700;
+    margin-left: 120px;
+
+}
+
+.reflect span {
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 90px;
+}
+
+.shoesimg {
+    height: 418px;
+    width: 300px;
+    
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.hi2{
+    height: 110vh;
+    width: 40%;
+    
+}
+.link{
+    height: 50px;
+    width: 100%;
+    background: #d7c4d8;
+}
+.link span{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+}
+

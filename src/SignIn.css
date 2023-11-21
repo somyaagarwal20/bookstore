@@ -1,0 +1,11 @@
+body {
+    background-color: #9A616D;
+  }
+
+  .header_logo{
+    width: 200px;
+    height: 140px !important;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }

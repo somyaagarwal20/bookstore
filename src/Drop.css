@@ -1,0 +1,82 @@
+#dropdown-basic {
+    color: black;
+    margin-right: 20px  !important;
+    margin-top: 3px !important;
+    font-size: 13px;
+    font-weight: 500;
+    background:#c4aac5;
+    height: 18px;
+    width: 90px;
+    color: white;
+    border-radius: 5px;
+}
+.dropbar {
+    background: #eeeeee;
+}
+
+.menu1 {
+    height: 435px  !important;
+    width: 200px !important;
+
+
+    background-color:  #e9d9e6;
+    position: fixed;
+
+}
+
+.menu2 {
+    height: 435px !important;
+    width: 200px !important;
+
+    margin-left: 200px;
+
+    background-color:  #e9d9e6;
+    position: fixed;
+
+}
+
+.menu3 {
+    height: 435px !important;
+    width: 200px;
+
+    margin-left: 380px;
+
+    background-color: #eee;
+    position: fixed;
+
+}
+
+.drop span {
+    color: #525252;
+    font-weight: 600;
+    font-size: 17px;
+   margin-top: -3px;
+
+}
+
+.dropbar {
+    display: flex;
+  
+    height: 435px;
+    width: 630px;
+}
+
+#picks {
+    margin-bottom: 30px;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+#dip {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    color: rgb(57, 154, 65);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#hello {
+    margin-top: 60px;
+}

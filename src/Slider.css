@@ -1,0 +1,59 @@
+.slidercard {
+    display: flex;
+    margin-left: 140px;
+  margin-top: 200px;
+    
+    
+
+
+
+}
+
+
+.cardddd{
+ margin-left: 89px;
+
+}
+
+.imggg {
+    height: 370px;
+    width: 50px;
+    margin-left: 40px;
+    margin-top: 15px;
+
+}
+
+.cardbutton {
+    width: 100px;
+    border-radius: 50px;
+    color: rgb(243, 243, 248);
+    background: rgb(15, 3, 3);
+    border: 1px solid #01060c;
+    font-size: 15px;
+    transition: 0.5s;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.cardbutton:hover {
+    background: transparent;
+    border: 2px solid white;
+    color: #226886;
+}
+
+.cardspan {
+    height: 70px;
+    width: 500px;
+   
+    margin-top: 450px;
+    margin-left: 200px;
+}
+
+.cardspan span {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Brush Script MT', cursive;
+    color: black;
+    
+}
+

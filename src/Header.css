@@ -1,0 +1,156 @@
+* {
+    box-sizing: content-box !important;
+   
+}
+
+
+.header {
+    background-color: white;
+    display: flex;
+    height: 80px;
+    width: 95%;
+    margin-left: 28px;
+    margin-top: 20px;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    border-radius: 5px;
+
+
+}
+
+.header_logo {
+    width: 200px;
+    height: 140px !important;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header_searchinput {
+    height: 12px !important;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    margin-top: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius:5px ;
+    margin-right: 100px;
+   background-color: #e9d9e6;
+   border:0.5px solid #c4aac5 ;
+
+}
+
+.header_search {
+    display: flex;
+    flex: 0.95;
+
+}
+
+.select {
+    height: 100% !important;
+    width: 250px !important;
+
+}
+
+
+
+
+.select1 {
+    height: 100%;
+    width: 250px;
+    display: flex;
+}
+
+.select1 span {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.header_searchicon {
+    background-color: #c4aac5;
+    padding: 4.7px;
+    margin-top: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius:5px ;
+    margin-left: -100px;
+    margin-right: 40px;
+
+}
+
+.header_nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: white !important;
+}
+
+p {
+    color: rgb(117 117 117);
+    margin-bottom: 0;
+    margin-bottom: 0 !important;
+}
+
+span {
+    color: rgb(117 117 117);
+    display: flex;
+}
+
+.header_link {
+    text-decoration: none;
+}
+
+.header_option {
+    height: 100% !important;
+    width: 73px !important;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header_option1 span {
+    font-size: 10px;
+   
+}
+
+.header_option2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 7px;
+    margin-right: 5px;
+
+}
+
+.header_option21{
+margin-left: -19px;
+}
+.header_Basketicon {
+    display: flex;
+    color: rgb(117 117 117);
+    align-items: center;
+    margin-top: 5px;
+    margin-left: -5px;
+}
+
+.headerbasket_count {
+    margin-left: 7px;
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
+
+.location {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.header_optionLineTwo {
+    font-size: 13px;
+    font-weight: 800;
+}
+
+

@@ -1,0 +1,25 @@
+.compb{
+    height: 50vh;
+    width: 100%;
+    border: 2px solid #5abddb;
+    background-image: url(https://img.freepik.com/premium-vector/space-elements-seamless-pattern-doodle-style-sketch-blue-background_566661-7062.jpg);
+}
+
+.compbimg{
+    margin-top: 140px;
+    margin-left: 150px;
+}
+
+.compbimg span{
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+    margin-left: 190px;
+
+}
+
+#more2 {
+   margin-top: 10px;
+   font-size: 17px;
+   
+}

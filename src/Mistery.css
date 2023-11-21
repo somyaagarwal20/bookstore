@@ -1,0 +1,28 @@
+.horror {
+    height: 30vh;
+    width: 100%;
+    
+}
+
+#a1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+    margin-top: 140px;
+    margin-left: 200px;
+   font-family: 'Brush Script MT', cursive; 
+}
+#a2{
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    
+}
+#a3{
+    margin-left: 200px;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 7px;
+    color: rgb(108, 104, 104);
+}
