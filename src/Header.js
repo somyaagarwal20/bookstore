@@ -11,7 +11,7 @@ const Header = () => {
         <div className='helloheader'>
             <nav className='header'>
 
-                <img className='header_logo'  src='https://logodix.com/logo/1847236.png' alt='' />
+                <img className='header_logo'  src='https://logodix.com/logo/1847236.png' alt=''  />
 
                 <Drop />
                 <div className='header_search'>
